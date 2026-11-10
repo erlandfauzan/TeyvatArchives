@@ -1,0 +1,10 @@
+{
+  "mandatory_marc_tags": ["082", "100", "245", "264"],
+  "valid_departments": ["General Works", "Social Sciences", "Literature", "History & Geography", "Applied Sciences"],
+  "ddc_sections": {
+    "000": "Computer Science, Information & General Works",
+    "300": "Social Sciences & Library Science",
+    "800": "Literature, Rhetoric & Criticism",
+    "900": "History & World Geography"
+  }
+}

@@ -1,0 +1,39 @@
+[
+  {
+    "book_id": "LIB-CAT-001",
+    "title": "Notes from Underground",
+    "author": "Fyodor Dostoevsky",
+    "department": "Literature",
+    "ddc_code": "891.73",
+    "marc_fields": {
+      "082": "891.73",
+      "100": "Fyodor Dostoevsky",
+      "245": "Notes from Underground",
+      "264": "University of St. Petersburg Press"
+    }
+  },
+  {
+    "book_id": "LIB-CAT-002",
+    "title": "Anna Karenina",
+    "author": "Leo Tolstoy",
+    "department": "Literature",
+    "ddc_code": "INVALID_DDC",
+    "marc_fields": {
+      "082": "INVALID_DDC",
+      "100": "Leo Tolstoy",
+      "245": "Anna Karenina"
+    }
+  },
+  {
+    "book_id": "LIB-CAT-003",
+    "title": "Introduction to Library and Information Science",
+    "author": "",
+    "department": "Social Sciences",
+    "ddc_code": "020",
+    "marc_fields": {
+      "082": "020",
+      "245": "Introduction to Library and Information Science",
+      "264": "Academic Library Publishing"
+    }
+  }
+]
